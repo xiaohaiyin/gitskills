@@ -1,3 +1,4 @@
 # gitskills
 Git is free software ...
-This is the second two,
+Creating a new branch is quick OR simple.XXXX
+This is the second one,
